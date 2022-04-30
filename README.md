@@ -3,7 +3,7 @@
 This is the final project for the course **AI2101 - Convex Optimization**. 
 Here we delve deeper into the project topics, focusing on Portfolio Management, considering the risk appetite of an investor.
 The code gives an insight upon High risk portfolios and their returns as well as Low risk portfolios and their returns. 
-Working in the Low risk setting, we look at the changes in the \% capital allocation in each investment given the volatility of a certain investment.
+Working in the Low risk setting, we look at the changes in the \% capital allocation in each investment as well as the expected returns out of the portfolio, given the volatility of a certain investment.
 
 # Group Members
 1. Chirag Jain - EE19BTECH11047
